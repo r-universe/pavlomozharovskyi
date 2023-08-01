@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "curveDepth"]
-	path = curveDepth
-	url = https://github.com/cran/curveDepth
 [submodule "TukeyRegion"]
 	path = TukeyRegion
 	url = https://github.com/cran/TukeyRegion
+[submodule "curveDepth"]
+	path = curveDepth
+	url = https://github.com/cran/curveDepth
